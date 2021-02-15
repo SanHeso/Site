@@ -1,0 +1,55 @@
+body{
+background: orange;
+}
+
+.head{
+background: white;
+
+width: 700px;
+border: 5px solid green;
+margin-right: auto;
+margin-left: auto;
+}
+
+.form{
+background: white;
+
+width: 700px;
+height: 210px;
+border: 5px solid blue;
+margin-top: 10px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.menu{
+background: green;
+
+width: 700px;
+border: 5px solid white;
+margin-top: 10px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.content{
+background: white;
+
+width: 700px;
+height: 700px;
+margin-top: 5px;
+border: 5px solid green;
+margin-right: auto;
+margin-left: auto;
+}
+
+.footer{
+background: green;
+
+width: 700px;
+height: 50px;
+border: 5px solid white;
+margin-top: 20px;
+margin-right: auto;
+margin-left: auto;
+}
